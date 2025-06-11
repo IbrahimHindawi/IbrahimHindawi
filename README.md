@@ -1,4 +1,4 @@
-### Hello World, I'm Ibrahim Hindawi
+### Hello, World! I'm Ibrahim Hindawi
 
 I like low level programming with C & x86-64 Assembly! <br>
 I really like game engine programming and like to develop games with custom engines & off the shelf engines. <br>
